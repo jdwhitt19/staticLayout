@@ -1,0 +1,26 @@
+body {
+    background: url(https://assets.nflxext.com/ffe/siteui/vlv3/f1e267d6-6c89-4764-b978-5f074b26bea5/b3971fff-4585-4604-83a5-c2d03571d56b/US-en-20190722-popsignuptwoweeks-perspective_alpha_website_small.jpg) no-repeat center center fixed;
+}
+
+#seeWhatsNext {
+    font-size: 40px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 1px 1px 10px;
+    display: block;
+    text-align: center;
+    padding: 150px;
+}
+
+#watchAnywhereCancelAnytime {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    display: block;
+    letter-spacing: 0.2px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: block;
+}
+
+.spacing {
+    margin: 10px;
+}
